@@ -23,7 +23,8 @@ class _MyWidgetState extends State<Registro> {
             labelText: "Nombre"
           )
           
-        )
+        ),
+        
       ),
     );
   }
